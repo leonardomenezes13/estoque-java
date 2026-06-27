@@ -1,0 +1,1 @@
+rootProject.name = "sistemaEstoque2"
